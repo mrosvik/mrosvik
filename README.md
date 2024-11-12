@@ -1,3 +1,5 @@
+![git-logo](https://github.com/user-attachments/assets/c10b5c05-858b-469a-8d3e-c60326d9d3c8)
+
 ## Hi there 👋
 
 I work at [The Norwegian Digitalisation Agency (Digdir)](https://www.digdir.no) as the product owner of [Designsystemet](https://www.designsystemet.no), a community-driven, open-source design system.
